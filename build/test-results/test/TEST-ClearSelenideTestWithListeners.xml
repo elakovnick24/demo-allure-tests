@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ClearSelenideTestWithListeners" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-27T21:49:13" hostname="192.168.0.11" time="1.748">
+  <properties/>
+  <testcase name="testIssueSearch()" classname="ClearSelenideTestWithListeners" time="1.748"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

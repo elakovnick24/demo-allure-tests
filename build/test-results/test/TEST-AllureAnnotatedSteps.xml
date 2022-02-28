@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AllureAnnotatedSteps" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-27T21:49:15" hostname="192.168.0.11" time="2.183">
+  <properties/>
+  <testcase name="testAnnotatedSteps()" classname="AllureAnnotatedSteps" time="2.183"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
