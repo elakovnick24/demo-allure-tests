@@ -87,7 +87,7 @@ public class WebStepsTestsAllure {
     }
 }
 ```
-![Screen1](/Users/nelakov/IdeaProjects/demo-allure-tests/src/test/resources/reports/1.png)
+![Screen1](/src/test/resources/reports/1.png)
 ___
 2. Connecting Allure and configuring the plugin
 
@@ -134,7 +134,7 @@ allure {
     }
 }
 ```
-![Screen2](/Users/nelakov/IdeaProjects/demo-allure-tests/src/test/resources/reports/2.png)
+![Screen2](/src/test/resources/reports/2.png)
 ___
 3. Adding script markup (lambda steps)
 
@@ -174,3 +174,4 @@ public class LambdaTest {
 
 }
 ```
+![Screen3](/src/test/resources/reports/3.png)
